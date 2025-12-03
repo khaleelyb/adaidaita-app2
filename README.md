@@ -1,0 +1,2 @@
+# Adaidaita Frontend
+Starter repo.
